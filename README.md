@@ -2,6 +2,9 @@
 Public documentation of the Ultron
 
 ## Testnet parameters
+
+***Testnet is currently off, restart is expected in the next 2 weeks***
+
 Network Name - Ultron testnet
 
 New RPC URL - http://ultron-rpc.net:18545
