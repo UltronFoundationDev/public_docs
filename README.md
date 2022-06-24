@@ -8,6 +8,7 @@ Public documentation of the Ultron
 Network Name: Ultron testnet
 
 RPC URL: https://rpc.ultron-dev.net
+
 Websockets URL: wss://wss.ultron-dev.net
 
 Chain ID - 1230
