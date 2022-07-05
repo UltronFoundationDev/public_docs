@@ -3,21 +3,19 @@ Public documentation of the Ultron
 
 ## Testnet parameters
 
-***Testnet is currently off, restart is expected in the next 2 weeks***
-
 Network Name: Ultron testnet
 
-RPC URL: https://rpc.ultron-dev.net
+RPC URL: https://ultron-dev.io
 
-Websockets URL: wss://wss.ultron-dev.net
+Websockets URL: wss://wss.ultron-dev.io
 
 Chain ID - 1230
 
 Currency Symbol - ULX
 
-Block Explorer URL - https://explorer.ultron-dev.net/
+Block Explorer URL - https://explorer.ultron-dev.io/
 
 
 #### Metamask setup example:
 
-<img src="https://i.imgur.com/NEFtVNh.jpg" width="450"/>
+![image](https://user-images.githubusercontent.com/209532/177300625-1c3527be-e6b9-4447-a895-dc04cbfd5fb8.png)
