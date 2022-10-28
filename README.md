@@ -7,8 +7,6 @@ Network Name: Ultron testnet
 
 RPC URL: https://ultron-dev.io
 
-Websockets URL: wss://wss.ultron-dev.io
-
 Chain ID - 1230
 
 Currency Symbol - ULX
