@@ -13,6 +13,8 @@ Currency Symbol - ULX
 
 Block Explorer URL - https://explorer.ultron-dev.io/
 
+Faucet - https://faucet-frontend.ultron-dev.io/
+
 
 #### Metamask setup example:
 
