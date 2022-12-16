@@ -2,7 +2,7 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
-## Ultron foundation updates from 05.12-09.12.2022
+## Ultron Foundation updates from 05.12-09.12.2022
 
 
 **Bridge**
@@ -31,7 +31,7 @@
 
 
 
-## Ultron foundation updates from 28.11-02.12.2022
+## Ultron Foundation updates from 28.11-02.12.2022
 
 
 **UltronSwap** 
@@ -54,7 +54,7 @@
 
 
 
-## Ultron foundation updates from 21.11-25.11.2022
+## Ultron Foundation updates from 21.11-25.11.2022
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-## Ultron foundation updates from 14.11-18.11.2022
+## Ultron Foundation updates from 14.11-18.11.2022
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-## Ultron foundation updates from 07.11-11.11.2022:
+## Ultron Foundation updates from 07.11-11.11.2022:
 
 
 **UltronSwap** 
@@ -145,7 +145,7 @@
 
 
 
-## Ultron foundation updates from 31.10-04.11.2022
+## Ultron Foundation updates from 31.10-04.11.2022
 
 **UltronSwap** 
 * Adding new tests functionality;
@@ -179,7 +179,7 @@
 
 
 
-## Ultron foundation updates from 24.10-28.10.2022:
+## Ultron Foundation updates from 24.10-28.10.2022:
 
 
 **UltronSwap** 
@@ -219,7 +219,7 @@
 
 
 
-## Ultron foundation updates from 17.10-21.10.2022
+## Ultron Foundation updates from 17.10-21.10.2022
 
 
 **UltronSwap** 
@@ -254,7 +254,7 @@
 
 
 
-## Ultron foundation updates from 03.10 - 07.10.2022
+## Ultron Foundation updates from 03.10 - 07.10.2022
 
 
 **UltronSwap** 
@@ -282,7 +282,7 @@
 
 
 
-## Ultron foundation updates from 26.09-30.09.2022:
+## Ultron Foundation updates from 26.09-30.09.2022:
 
 
 **UltronSwap** 
@@ -313,7 +313,7 @@
 
 
 
-## Ultron foundation updates from 19.09-23.09.2022:
+## Ultron Foundation updates from 19.09-23.09.2022:
 
 
 **UltronSwap** 
@@ -345,7 +345,7 @@
 
 
 
-## Ultron foundation updates from 12.09-16.09.2022
+## Ultron Foundation updates from 12.09-16.09.2022
 
 
 **UltronSwap** 
@@ -385,7 +385,7 @@
 
 
 
-## Ultron foundation updates from 05.09-09.09.2022
+## Ultron Foundation updates from 05.09-09.09.2022
 
 
 **UltronSwap** 
@@ -404,7 +404,7 @@
 * Fixed incorrectly displayed price in explorer assets + price for BUSD 
 
 
-## Ultron foundation updates 29.08-02.09.2022
+## Ultron Foundation updates 29.08-02.09.2022
 
 **UltronSwap** 
 * Fixed issue with wULX, fixed issue with ETH displaying;
