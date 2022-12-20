@@ -2,6 +2,28 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+
+## Ultron Foundation updates from 12.12-16.12.2022
+
+
+**Bridge**
+* Monitoring system improved, new features deployed; 
+* Bridge issues solving, improving bridge ecosystem; 
+
+
+**Infrastructure**
+
+
+* Preparing Ultron Smart - contracts for audit; 
+* Refactroring of queues and fixing previously appeared issues; 
+* Node upgrades + starting new nodes implementation;  
+
+
+**Website**
+ * Minor UI improvements;
+
+
+
 ## Ultron Foundation updates from 05.12-09.12.2022
 
 
