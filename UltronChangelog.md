@@ -2,6 +2,24 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 19-23.12.2022
+
+
+**NFT Staking HUB**
+* Buyback system internal improvements and changes - finished and deployed.   
+* Multiple tasks and on queues handling optimization in processing; 
+* Comission payments issues fixed and improvements deployed; 
+
+**UltronSwap**
+* Refactoring of ultron decentralized exchange finished; 
+
+**Website**
+* Refactoring carried out;
+* Rewards calculator updated
+
+**Infrastructure**
+* Witnet oracle launched pricefeed and randomness on Ultron testnet;
+
 
 ## Ultron Foundation updates from 12.12-16.12.2022
 
