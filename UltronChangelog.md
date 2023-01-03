@@ -13,6 +13,7 @@
 **Infrastructure**
 * Server issues solving;
 * Setting up custom nodes for private API of other blockchain networks;
+* Continue moving to cluster setup;
 
 **Website**
 * Refactroring;
