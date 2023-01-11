@@ -4,17 +4,17 @@
 
 ## Ultron Foundation updates from 02.01-06.01.2023
 
+
 **NFT Staking Hub**
 * NFT Staking Hub price update;
 * Fix issue with commission payments;
-* Update and fix the service of rewards;
+* Update and fix the rewards service (improved monitoring);
 
-**Infrastructure**
-* Updating smart contracts for audit;
-* Update token processing;
-* Airdrop service update;
-* Nodes improvement;
-
+**Ecosystem**
+* Updating smart contracts after audit, preparing new contracts;
+* Update token processing stability and scalability;
+* Airdrop service update (withdrawals);
+* Nodes improvement - version upgrade, updated genesis preparation;
 
 
 ## Ultron Foundation updates from 26.12-30.12.2022
