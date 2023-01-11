@@ -2,6 +2,21 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 02.01-06.01.2023
+
+**NFT Staking Hub**
+* NFT Staking Hub price update;
+* Fix issue with commission payments;
+* Update and fix the service of rewards;
+
+**Infrastructure**
+* Updating smart contracts for audit;
+* Update token processing;
+* Airdrop service update;
+* Nodes improvement;
+
+
+
 ## Ultron Foundation updates from 26.12-30.12.2022
 
 **NFT Staking HUB**
