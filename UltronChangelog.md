@@ -2,6 +2,25 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 09.01-13.01.2023
+
+**NFT Staking Hub**
+* Wrong package id fixed;
+* Buybacks id fixed;
+* Import of the delayed buybacks through the market implemented;
+* A delay of 12 blocks in BSC blockchain was applied to avoid possible chain reorg; 
+
+
+**Infrastructure**
+* Calculation change for airdrop when autocompound=off on current version of staking (Rewards airdrop calculation update) - completed, now testing; 
+* Upgrading nodes for the Ultron network, setting up private nodes for BSC and Tron; 
+* Queues on celery are refactored;
+
+**Website**
+* Website migration is almost complete;
+* Static generation of all pages is configured;
+* Minor changes in data (added a blog and new employees information)
+
 ## Ultron Foundation updates from 02.01-06.01.2023
 
 
