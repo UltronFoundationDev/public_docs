@@ -2,6 +2,31 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+
+## Ultron Foundation updates from 16.01-20.01.2023
+
+**NFT Staking Hub**
+
+*  Fixed issue: the balance in webhook could be zero, because of this some of the orders were not processed;
+*  Import of updated buyback mechanism;
+*  Withdraw usdt from the wallets of old orders and send to treasury; 
+*  Correcting links in the "staking" smart contract for bybacks and imported NFTs; 
+*  Correction of automatic commission payments from the backoffice (bsc usdt); 
+*  Set a delay of 12 blocks to avoid reorgs; 
+*  Implement calculation change for airdrop with disabled autocompound on the current version of staking (Rewards airdrop calculation update);
+*  Price getter deployed to production; 
+
+
+**Website**
+*  Transfer to statically generated deployment;
+*  Changed the current year to 2023 everywhere (explorer/dex/bridge);
+*  Refreshed partner logos;
+
+
+**UltronSwap**
+*  Fixed functionality availability in other networks;
+*  The loader is shown now during loading of the balances;
+
 ## Ultron Foundation updates from 09.01-13.01.2023
 
 **NFT Staking Hub**
