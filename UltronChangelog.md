@@ -2,6 +2,30 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 23.01-27.01.2023
+
+
+**Scanner**
+* Minor issue on staking front page improved;
+* Migration to vue 3 performed;
+
+**Website**
+ * Google analytics metrics and data collection improved; 
+ * Improvements on website data management tools;
+ * Search with fuse js added;;
+ * Minor edits (imposition has gone);
+
+**Bridge**
+* Continued implementation of alerts and backend;
+
+**NFT Staking HUB**
+
+* Adding signatures saving;
+* Merging dev and main branches;
+* Readonly_fields for all fk/m2m added;
+* Replacing all jsonfield with textfield, transferring values with a separate management command, checking handlers;
+* Set a delay of 12 blocks in all blockers;
+* Parallelization of rewards;
 
 ## Ultron Foundation updates from 16.01-20.01.2023
 
