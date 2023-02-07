@@ -2,6 +2,41 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 30.01-03.01.2023
+
+**NFT Staking Hub**
+
+* Checking order status, and completing unfinished orders;
+* Checking the user's bonus nft's; 
+* Solving internal issues for the backend receiving new changes about autocompound immediately;
+* Making edits on the "Manage" smart contract; 
+* Optimized processing of the events at the backend;
+* Data schema updates on the processing backend;
+* Fixing the issue with the order id link;
+* Upgrading nodes of the Ultron network, debug tracing data;
+* Withdrawal limits improvement;
+* Automation of checking the rewards calculation and payouts;
+* Adding script with metrics;
+* Metrics monitoring improvement;
+* Rechecking all legacy data;
+* Adding extra script that changes payout addresses if necessary; 
+* Switching queues to celery and deployment in k8s;
+* Integration of logs processing;
+
+**Ultron Bridge**
+* Chainbridge - improving the metrics and tasks for the backend, prepare the deployment to the k8s cluster;
+
+**Ulxscan**
+* Switching the site to a new static generation process;
+
+**Ultron Swap**
+* Web3 modal update;
+* Parsing alerts from the sentry;
+
+**Website**
+* Switching the site to a new static generation of html pages;
+* Development of schemes for pages, content
+
 ## Ultron Foundation updates from 23.01-27.01.2023
 
 
