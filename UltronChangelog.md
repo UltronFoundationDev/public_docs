@@ -2,7 +2,27 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
-## Ultron Foundation updates from 30.01-03.01.2023
+## Ultron Foundation updates from 06.02-10.02.2023
+
+**NFT Staking HUB**
+* Payout addresses logic improvement; 
+* Updating gas fees in Tron;  
+* Making improvements accordingly to Solidity Finance's DAO smart contract audit; 
+* Updating the ABI and add the dollar value mapping to the NFT metadata section in the Explorer and in the utility (the nft-info-ui repository)
+
+**Ecosystem** 
+* Upgrading nodes for Ultron network; 
+
+**Website**
+* Minor UI improvements; 
+
+**UltronSwap**
+* Updating web3modal; 
+
+**Ultron Bridge**
+* Chainbridge architecture upgrading;
+
+## Ultron Foundation updates from 30.01-03.02.2023
 
 **NFT Staking Hub**
 
