@@ -2,6 +2,33 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 13.02-17.02.2023
+
+**NFT Staking HUB** 
+
+* Adding unit tests for checking packages that are currently inactive and should be removed.
+* Logging the current version of the processing;
+* Checking and solving the issue with turning autostake off by the users. 
+* Fixing the issue with ulx and NFT transferring; 
+* Implementing  mechanism of adaptive Gas Size in Tron network; 
+* Checking USD value for buybacks and legacy packages; 
+* Improving the buybacks importing feature;
+* Migration of NFT Staking HUB and related projects backend to the new repository; 
+
+**Infrastructure**
+* Move processing production database to a different cluster; 
+* Upgrading nodes for the Ultron network; 
+* Updating backend and infrastructure in accordance with the results of Solidity Finance's DAO smart contract audit; 
+
+**Ultron Bridge** 
+* Minor UI improvements; 
+* Preparing the infrastructure for adding new tokens to Ultron bridge;
+
+**Ultron Website** 
+* Implementing simplified mechanisms and infrastructure for faster website loading and simplified updates; 
+* Minor UI improvements in the Blog segment;
+
+
 ## Ultron Foundation updates from 06.02-10.02.2023
 
 **NFT Staking HUB**
