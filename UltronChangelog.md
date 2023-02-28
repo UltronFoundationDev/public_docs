@@ -2,6 +2,30 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 20.02-24.02.2023
+
+**NFT Staking HUB**
+* Implementing and deploying new test infrastructure for NFT Staking Hub;
+* Migration of NFT Staking Hub project to cluster database;
+* Package ID monitoring system update; 
+* Monitoring the accrual of rewards;
+* Fixing data issue with importing buybacks;
+* Adding processing post-execution results monitoring script (txqueue); 
+* Working on withdrawal limits and buybacks extra validation;
+
+**UltronSwap**
+* Local activation of the sentry;
+
+**Bridge**
+* Preparations for adding new tokens;
+* Monitoring and executing the transactions;
+
+**Infrastructure**
+* Installing the consul on a test cluster;
+* Importing new database structure for work improvement;
+* Expansion of space on virtual servers;
+* Genesis generation and upgrade check;
+
 ## Ultron Foundation updates from 13.02-17.02.2023
 
 **NFT Staking HUB** 
