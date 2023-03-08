@@ -2,6 +2,33 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 27.02-03.04.2023
+
+**NFT Staking HUB**
+
+* Testnet Review - rechecking the logic of the work and relevance of the backend architecture;
+* Automation of checking the rewards calculation and payouts;
+* Subscriptions payment processing;
+* Buy NFT on Ultron Network (uUSDT) - final improvements and testing; 
+* Commission Payouts in uUSDT on Ultron Network - final improvements and testing; 
+* Checking and solving the issue with NFT packages displaying;
+* Fixing issues with incorrect data setting during Buybacks import;
+* Continuing making improvements after Solidity Finance's DAO smart contract audit;
+* Making correct receipts for all Packages, buybacks and legacies including autocompounds;
+* Automation of the script in the parser which counts receipts in CSV for updating CSV files for new transactions;
+* Checking and solving the Issue with turning autocompound on for some accounts;
+* Migrating rewards service to Separate Server;
+* Making additional connections In Smart Contracts, improving work and stability;
+
+**Infrastructure**
+* Continue migration of processing to k8s;
+
+**Ulxscan**
+* Displaying uUSDT and uUSDC amount for any address on ulxscan.com;
+
+**Ultronbridge**
+* Preparation of new tokens on the bridge for release;
+
 ## Ultron Foundation updates from 20.02-24.02.2023
 
 **NFT Staking HUB**
