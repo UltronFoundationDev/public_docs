@@ -2,7 +2,7 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
-## Ultron Foundation updates from 27.02-03.04.2023
+## Ultron Foundation updates from 27.02-03.03.2023
 
 **NFT Staking HUB**
 
