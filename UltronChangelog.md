@@ -2,6 +2,25 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 13.03-17.03.2023
+
+**NFT Staking Hub** 
+* Finished enabling autocompound ON/OFF processing;
+* Order processing without NFT finished;
+* Staking HUB stake update finished; 
+* Adaptive Gas Size in Tron network implemented; 
+* Receipts for all packages and buybacks and legacies including autocompounds corrected;
+* Data issues with importing buybacks fixed;
+* Migration of rewards processing to separate server;
+* Upgrading system after Solidity Finance's DAO smart contract audit; 
+
+
+**Infrastructure** 
+* Migration of processing to k8;
+* Deploy and testing on testnet; 
+* Business logic tests implementation;
+* Porting the recent logic changes to the celery queue processing code;
+
 ## Ultron Foundation updates from 06.03-10.03.2023
 
 **NFT Staking Hub** 
@@ -18,7 +37,7 @@
 * Fixing issue: Did not transfer wulx and nft after transferring nft from non-main addresses to main address;
 * Merging legacy NFTs into bonus NFTs;
 * Fixing issue with buyback imports;
-* All HUBS starting march 13th on stake ratio 1.0;
+* Staking Hubs update;
 * Web3modal v.2 update in progress
 
 
