@@ -2,6 +2,39 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+
+## Ultron foundation updates from 20.03 - 24.03.2023
+
+**NFT Staking Hub**
+
+* Fixed the dev environment issue with slow payments confirmation;
+* Fixed issue with incorrect data was set during buybacks import;
+* Fixed issue: buyback NFTs could be accidentally burned;
+* Fixed issue: Did not transfer wulx and nft after transferring nft from non-main addresses to the main address; 
+* New connections added to NFT Staking Hub smart contract;
+* Accrual optimization finished; 
+* Package type validation added to admin panel; 
+* "txqueue" recheck script after execution added, recheck all current txqueue element performed; 
+* Rewards processing system: migration to separate server - performing; 
+* Finished setup of USD value = 0 for buybacks and legacy packages; 
+* System improved after Solidity Finance's DAO smart contract audit; 
+
+
+**Infrastructure**
+
+* Maintenance of processing migration to k8; 
+* Processing deployment and testing on testnet - unit tests and CI setup for testing finished; 
+* Scaling workers calibration on testnet finished; 
+*  Celery configuration finished; 
+
+
+**Ultron website**
+
+*  Terraform/terragrunt resources created;  
+*  New CI/CD development;
+*  Domain transfer; 
+*  Creation of a new environment with terraform/terragrunt+gitlab for production;
+
 ## Ultron Foundation updates from 13.03-17.03.2023
 
 **NFT Staking Hub** 
