@@ -2,6 +2,38 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 27.03 - 31.03.2023
+
+**NFT Staking Hub**
+
+*  Fixing issue with adding function to the testnet for the graph for autocompound status change;
+* Final improvements made after Solidity Finance's DAO smart contract audit; 
+* Bytecode built and committed into the repository with instructions; 
+* Receipts correction finished for all packages and buybacks and legacies including autocompounds; 
+* Improvements to the script that collects balances from temporary addresses were performed; 
+* Repository for new version of smart contracts - in the process;
+* Issue with invalid dates in autocompound after flag changing fix - in progress;
+* Fixing minor calculations issues with rewards accrual for users going off - in progress; 
+
+**Infrastructure**
+* Deployment and testing new processing on testnet - in progress; 
+* Celery configuration - in progress
+* Checking unit tests + setting up CI for tests - in progress; 
+* Preparation of dependent services - in progress; 
+* Calibration of scaling workers on testnet - in progress; 
+
+
+**UltronSwap**
+* Test cases writing and implementation - in progress; 
+* Fix of cron brewulx script - finished; 
+
+**UltronWebsite**
+* Whitepaper updated; 
+* Domain transfer preparation, DNS records replacing - finished; 
+
+**Ulxscan**
+* Setting up and testing of new network explorer (blockscout) - in progress;
+* Validators issue checking and fixing - in progress;
 
 ## Ultron foundation updates from 20.03 - 24.03.2023
 
