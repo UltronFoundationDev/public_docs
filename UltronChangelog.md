@@ -2,6 +2,40 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 03.04 - 07.04.2023
+
+**NFT Staking Hub**
+
+* Auto-return form for subscriptions updated; 
+* Staking HUB receipts improved; 
+* NFT staking v2  - in progress; 
+* Tests for diamond architecture implementation - in progress; 
+* Refactoring of the current smart contract - in progress;
+* Accrual of missing amounts of rewards for parts 1 and 2 of the buybacks imports - in progress;
+* Merge legacy NFTs into bonus NFTs - in progress; 
+* Calculation issue fixed; 
+
+**Infrastructure**
+
+* Migration of processing to k8 - in progress
+* Deployment and testing  processing on testnet - in progress; 
+* Deployment of chainbridge in k8 and tests implementation - in progress; 
+
+
+**Ultron bridge** 
+
+* Issue with ETH/Ultron fixed;
+* Issue with Binance network fixed;
+
+
+**UltronSwap**
+* Rewards Updated;
+
+**Ultron website** 
+
+* Minor interface updates; 
+* Whitepaper updated;
+
 ## Ultron foundation updates from 27.03 - 31.03.2023
 
 **NFT Staking Hub**
