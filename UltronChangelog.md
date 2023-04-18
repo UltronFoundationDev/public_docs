@@ -2,6 +2,42 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 10.04 - 14.04.2023
+
+**NFT Staking HUB**
+
+* Integration of diamond API with a basic implementation of the staking facet - in progress;
+* Refactoring of the current smart contract - in progress;
+* Data transfer to a new smart contract. Implementing Backend infrastructure to store information about all NFTs with unlocks - in progress;
+* Accrual of missing amounts of rewards for parts 1 and 2 of the buybacks imports - in progress;
+* NFTs swapping - in progress;
+
+**Infrastructure**
+
+* Migration of processing to k8 - in progress;
+* Business logic tests - in progress
+* Integration of tests into the process of building an instance - - in progress;
+* Integration of pools in the backend to distribute the load during database connection - in progress;
+* NFT data management tools implementation - in progress;
+
+
+**ULXScan**
+
+* Add caching on the proxy - in progress;
+* Add sentry - finished;
+* Validators mechanism update - finished;
+
+**Ultron Bridge**
+
+* UX improvement (now users are able to add assets to MetaMask immediately) 
+* Deployment of bridge relayers in k8 - in progress;
+* Fixing Issue with ETH/Ultron - finished;
+
+**UltronSwap**
+
+* DefiLama information update - in progress;
+* End2end tests updated;
+
 ## Ultron foundation updates from 03.04 - 07.04.2023
 
 **NFT Staking Hub**
