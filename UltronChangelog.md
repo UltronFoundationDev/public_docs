@@ -2,6 +2,64 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 17.04 - 21.04.2023
+
+**NFT Staking HUB**
+
+* Accrual of missing amounts of rewards for parts 1 and 2 of the buybacks imports - completed;
+* Issue fixed with old packages appearance;
+* Subgraph transferred to a new instance;
+* Fixing issue with buybacks data;
+* NFT staking v2 - in progress. 
+* Refactoring the current smart contract - in progress;
+* Data transfer to a new smart contract - in progress;
+* Implementation of test design high-level tests for staking v1 and detailed tests of staking v2;
+* Monitoring dashboard with business metrics implementation - in progress;
+* Adding the required cumulative metrics to the graph - in progress;
+* Service-checker of node status and number of transactions on it - in progress;
+* Fixing issue with calculation - in progress;
+* Fixing issue with autocompound data after the compound status change - in progress;
+
+**Infrastructure**
+
+* Migration of processing to k8 - in progress;
+* Business logic tests - completed;
+* Admin panel improvements - completed;
+* Pools integration into the backend - completed;
+* Transaction waiting added to the Tron network; 
+* Deployment and testing processing on testnet - in progress; 
+* CI GitLab - in progress; 
+* Chainbridge deployment on k8s - in progress; 
+
+
+**UlxScan**
+* Minor UI changes made;  
+* Assets displaying issue fixed; 
+* NFT Metadata search improved;
+* Chain info saved when after page updates;
+* uUSDT price updates received from CMC - in progress;
+* Optimization of getting prices - in progress; 
+* NFT id search results improvement - in progress;
+* Dollar cap updates on the NFT metadata page for buyback and legacy packages - in progress;
+
+**UltronBridge**
+*  Make Ultron default without a wallet connection - in progress;
+*  Bridge admin panel improvements;
+
+**UltronSwap**
+* Update end2end tests (in progress);
+* API Changed on CMC API 2.0 ;
+* Liquidity issue solving - completed;
+* Solving issue from Sanity - completed;
+* Contracts in other networks added to UltronSwap;
+
+
+**Ultron Website**
+* Roadmap Updates - in progress;
+* Partner projects added to the Ecosystem tab  - in progress;
+* New blog added;
+* Partners list updated;
+
 ## Ultron foundation updates from 10.04 - 14.04.2023
 
 **NFT Staking HUB**
