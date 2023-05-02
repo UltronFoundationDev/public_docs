@@ -2,6 +2,42 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 24.04 - 28.04.2023
+
+**NFT Staking HUB**
+* Custom celery service was written, and health checker completed; 
+* Refactoring of the current smart contract and uploading to the testnet - completed;
+* Changes on the contract for data conversion - completed. 
+* Implementation of the backend for storing all information about all NFTs with unlocks - completed; 
+* Script to verify the data of the old smart contract and the new one - completed. 
+
+**Infrastructure** 
+* Scaling of workers - in progress;
+* Celery set up - in progress;
+
+**UlxScan**
+* Getting uUSDT price from CoinmarketCap - completed
+* Adding a possibility to perform the search in the NFT metadata to find the result by nft id = 0 - completed
+* On the NFT metadata page for buyback and legacy packages, the option of showing zero dollar cap was added; 
+* CHAIN TO information saved when the page is updated - completed
+
+**Bridges**
+* Solving issue with gas estimation - in progress
+* Upgrading the retry system - in progress; 
+* Ultron is the default chain if the wallet is not connected - completed; 
+* Deploying chainbridge in k8 - in progress; 
+* Testing and refinement of the UltronSwap issue notification system -  in progress;
+* End2end tests updated; 
+* API Changed to CoinmarketCap API 2.0 - completed; 
+* Pop-up adding for loading transaction - in progress; 
+* Making adaptive UI for different devices - in progress;
+
+**Website**
+* Updating Roadmap (in progress)
+* Adding new partner projects to the Ecosystem tab + to the footer - completed; 
+* Adding a new photo to Our team - completed; 
+* Correcting Our Team info - completed;
+
 ## Ultron foundation updates from 17.04 - 21.04.2023
 
 **NFT Staking HUB**
