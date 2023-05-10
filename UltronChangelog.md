@@ -2,6 +2,28 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 01.05 - 05.05.2023
+
+**NFT Staking HUB**
+
+* Processing metrics added to the monitoring - completed;
+* The implementation of changes was finished in the spec for NFT staking v2- completed;
+* The team started working on a subgraph for NFT staking v2 - in progress;
+* Data transfer by using a refactored version of the staking contract - completed;
+
+**Ulxscan**
+* Adding blockexplorer to the notification system - in progress;
+* Implement Sentry logic on prod Blockexplorer - completed;
+* Optimization of getting prices - completed;
+
+**Bridge**
+* Solve gas underestimation problem - in progress;
+* Redo the retry system - in progress;
+
+**UltronSwap**
+* Farming rewards update for May 2023 - completed;
+* Implement Sentry logic on prod DEX - done;
+
 ## Ultron foundation updates from 24.04 - 28.04.2023
 
 **NFT Staking HUB**
