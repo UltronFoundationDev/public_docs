@@ -2,6 +2,34 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 08.05 - 12.05.2023
+
+**NFT Staking HUB**
+* Fixed issue with wulx and nft transfer from non-main addresses to main address - completed;
+* NFT staking v2 preparation  - in progress
+* Testing updated smart contract with the transaction and comparing received data by the backend script - in progress;
+* The implementation of the subgraph changes finished and deployed locally, soon it will be deployed on testnet;
+* Monitoring dashboard with business metrics - in progress;
+* Fixing issue with usd value correcting in buybacks and buybacks duplication - in progress;
+* Accrual of rewards for parts 1 and 2 of the buybacks imports - in progress;
+* Fixing issue with dollar cap calculation - in progress;
+* Package id setting - in progress;
+* Legacy values correction - in progress;
+* Merging legacy NFTs into bonus NFTs - in progress;
+* Setting correct package id - in progress;
+
+**ULXScan**
+* Updated tests - completed;
+
+**Ultron Bridge**
+* Evaluating and debugging DEX with browser-based trust wallet - in progress;
+* Solving gas underestimation problem - in progress;
+* Redoing the retry system - in progress;
+* Chainbridge deployment in k8 - in progress;
+
+**Website**
+* Updated tests for Ultron main website - in progress;
+
 ## Ultron foundation updates from 01.05 - 05.05.2023
 
 **NFT Staking HUB**
