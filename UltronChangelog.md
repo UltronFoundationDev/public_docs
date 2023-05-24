@@ -2,6 +2,38 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 15.05 - 19.05.2023
+
+**NFT Staking Hub**
+* Send payouts from csv or xlsl file - completed;
+* NFT staking v2 - work in progress;
+* Subgrapgh tests for the subgraph checking and writing - in progress;
+* Data transfer tests in the testnet correction check - in progress ;
+* Fixing issue with usd value in buybacks + duplication of buybacks - in progress;
+* Accrual of missing amounts of rewards for parts 1 and 2 of the buybacks imports - in progress;
+* Fixing calculations - in progres;
+* Correcting legacy values - in progress;
+* Setting correct package id - in progress;
+* Merging legacy NFTs into bonus NFTs before the end of the week - in progress;
+* Adding transaction status checks for automatic retry implementation - in progress;
+* Adding retry for a nonce error - in progress;
+
+**Blockexplorer**
+* Parsing alerts from sentry Blockexplorer - in progress;
+
+Ultron Bridge:
+* Fixing incorrect rate in a chart - completed;
+* Making a system of retries for underpaid transactions - in progress;
+* Solving the issue of underestimating gas - in progress;
+
+**DEX**
+* Adding new farm pools and bridge pairs - finished for Matic and BNB;
+* Wagmi update, ethers to view migration, fixing issues with added custom tokens - completed;
+* Evaluating and debugging dex with browser trust wallet - completed;
+
+**Website**
+* Add Sentry Filtering - completed.
+
 ## Ultron foundation updates from 08.05 - 12.05.2023
 
 **NFT Staking HUB**
