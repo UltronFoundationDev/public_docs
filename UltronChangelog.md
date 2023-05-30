@@ -2,6 +2,35 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 22.05 - 26.05.2023
+
+**NFT Staking HUB**
+
+* Adding new Gaming NFT packages - in progress;
+* Burn unused gaming nft’s - completed;
+* Pre-sale of Gaming NFTs  preparation and deployment - completed;
+* NFT staking v2 preparation - in progress;
+* Verification of the functions of the old and new contract + transfer all backend functions to the protocol of the new contract - in progress;
+* Data transfer to a new smart contract in testnet - completed;
+* Redeployment and setup graphs for multiple environments - in progress;
+
+**Infrastructure**
+* Set up monitoring for vaults while in operation - in progress;
+* Refinement of CI - Based on Solutions - completed;
+* K8 support maintenance - in progress;
+* Running IPFS in cluster mode in a k8s - in progress;
+* Refinement of the system for collecting metrics - in progress;
+
+**Ulxscan**
+* Parsing alerts from sentry Ulxscan - in progress;
+* Update web3modal v.2 Blockexplorer - in progress;
+
+**UltronSwap**
+* Debug DEX with browser trust wallet - in progress;
+* Fixing incorrect display of BNB price on Swap - completed;
+* Adding new farm pools and bridge pairs - in progress;
+* Bug with looking for reserves for swap - in progress;
+
 ## Ultron foundation updates from 15.05 - 19.05.2023
 
 **NFT Staking Hub**
@@ -21,12 +50,12 @@
 **Blockexplorer**
 * Parsing alerts from sentry Blockexplorer - in progress;
 
-Ultron Bridge:
+**Ultron Bridge**
 * Fixing incorrect rate in a chart - completed;
 * Making a system of retries for underpaid transactions - in progress;
 * Solving the issue of underestimating gas - in progress;
 
-**DEX**
+**UltronSwap**
 * Adding new farm pools and bridge pairs - finished for Matic and BNB;
 * Wagmi update, ethers to view migration, fixing issues with added custom tokens - completed;
 * Evaluating and debugging dex with browser trust wallet - completed;
