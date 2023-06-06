@@ -2,6 +2,30 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 29.05 - 02.06.2023
+
+
+**NFT Staking HUB**
+
+* NFT staking v2 - staking contract v2 and the subgraph are deployed in production. Ultron developers switched the processing in the testnet completely to the second version and currently it is under tests;
+* Collecting data on a graph for business metrics in monitoring dashboard - in progress;
+
+**Infrastructure**
+* Migration of processing to k8 - devops team started updating the celery branch (to add changes for NFT’s).
+
+ULXScan:
+* Parsing alerts from sentry (Completed);
+
+**DEX**
+* Added FTM and AVAX adding to UltronSwap (In progress);
+* Farming rewards updated;
+* PEPE token added;
+* Issue with displaying LP value staked in Farms solved;
+* MAX function issue correction (In progress)
+
+**Website**
+* Updating whitepaper file on the ultron foundation website;
+
 ## Ultron foundation updates from 22.05 - 26.05.2023
 
 **NFT Staking HUB**
