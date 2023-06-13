@@ -2,6 +2,35 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 05.06 - 09.06.2023
+
+**Ultron Swap**
+
+* New farm pools and bridge pairs added (CAKE and DOT);
+* MAX function issue fixed;
+* UltronSwap UI update preparation - in progress;
+
+**NFT Staking HUB**
+
+* Launching updated version on the tetstnet and moving the production stage (In progress);
+* Changes in the subgraph (In progress);
+* Updating the celery branch;
+* Id mapping in the processing database and in the blockchain correction;
+* Rechecking base stake (In progress);
+* Balance monitoring (In progress);
+* Monitoring dashboard with business metrics - in progress;
+* Data transfer to a new smart contract in testnet - in progress;
+* Data transfer to a new smart contract in mainnet - in progress;
+* Updating the block scanner - in progress;
+* Execution of the high level tests for staking v1 and detailed tests for staking v2;
+
+**Infrastructure**
+
+* Proxy for binance nodes deployed on dev, currently preparing to go for production stage;
+* Completion Volt - in progress;
+* Finalization of the IPFS cluster - in progress;
+* Developers are analyzing issues of the PC cluster, finalizing haproxy under rpc (dedicated cluster + certificate);
+
 ## Ultron foundation updates from 29.05 - 02.06.2023
 
 
