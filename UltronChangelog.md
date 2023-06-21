@@ -2,6 +2,29 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 12.06 - 16.06.2023
+
+**NFT Staking HUB**
+* Web3py Updated to v6;
+* Transaction re-processing fixed;
+* Block scanner updated;
+* Fixes of old issues with Stake Ratio status for some hubs between 10 Aug - 13 sept - completed;
+* Corrections by Correct base stake uploaded;
+* Redeployment of the NFT staking v2 contract to the mainnet with the changes made - in progress;
+* Monitoring dashboard with business metrics - in progress;
+
+**Bridge**
+* Deployment of chainbridge in k8 - in progress;
+
+**Dex**
+* Minor issue with «Harvest» button fixed;
+* Minor UI interface issues fixed;
+* New farm pools and bridge pairs added;
+
+**Website**
+* Minor UI updates performed;
+
+
 ## Ultron foundation updates from 05.06 - 09.06.2023
 
 **Ultron Swap**
