@@ -2,6 +2,26 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 19.06 - 23.06.2023
+
+**NFT Staking HUB**
+* Corrected base stake;
+* Fixes of old issues with Stake Ratio status for some hubs between 10 Aug - 13 sept - completed;
+* Merged legacy NFTs into bonus NFTs;
+* Corrected legacy values;
+* Re-set the buybacks;
+* Imported Buybacks;
+* Added to the parser buybacks import #1,2;
+* Business statistics of the token processing module (rea-time ecosystem metrics) uploaded;
+* NFT staking v2 - in progress;
+* Migration of processing to k8 - in progress;
+* Explore using Firefly supernode for our projects - in progress;
+* Gaming NFT smart contract currently preparing for the audition;
+
+**Ultron bridge**
+* Deployment of chainbridge in k8 - in progress
+
+
 ## Ultron foundation updates from 12.06 - 16.06.2023
 
 **NFT Staking HUB**
