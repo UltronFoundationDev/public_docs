@@ -2,6 +2,28 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 03.07 - 07.07.2023
+
+**NFT Staking HUB**
+
+* Dollar cap check and fix+ checking if there is an issue with the dollar cap in mainnet - completed;
+* Checked and fixed issue with Bonus Hub stake and earnings;
+* Parser for the second version of the staking contract Changing - in progress;
+* Execution of the high level tests for staking v1 and detailed tests for staking v2 - in progress;
+* Data transfer to a new smart contract in testnet for staking v2 - in progress;
+* Address manager to improve the transactions delivery (analogue of Firefly) preparation - in progress;
+
+**Infrastructure**
+* Transaction re-processing fixing;
+* Processing - Deployed and tested on the test environment. Testing of the main functionality of Processing deployed in a cube has been completed.
+* Migration of rewards calculation to separate server - in progress;
+* Deployment of chainbridge in k8 - in progress;
+
+**UltronSwap**
+
+* Farming rewards update (farm page), July 2023 - completed;
+
+
 ## Ultron foundation updates from 26.06 - 30.06.2023
 
 **NFT Staking Hub**
