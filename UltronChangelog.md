@@ -4,6 +4,37 @@
 
 ## Ultron foundation updates from 03.07 - 07.07.2023
 
+**NFT Staking Hub**
+
+* Team checked and solved the case with Nft;
+* Fixed total stake issue case;
+* Dollar cap checked and fixed;
+* Speed up block processing on tron blocker fixed;
+* Business logic tests for gaming NFT and BatchPayoutQueue added;
+* Aggregating business metrics on prometheus completed;
+* Checking the balance when withdrawing tokens on the processing - uploaded to production;
+* Team changed the parser for the second version of the staking contract;
+* Subgraph logic update implemented, team making final check;
+* New spec was written and approved;
+* Execution of the high-level tests for staking v1 and detailed tests for staking v2 - in progress;
+* Updating the claim on the bonus NFT in the smart contract- in progress;
+* Fix of transaction re-processing - in progress;
+* Rechecking data before migration - in progress;
+* (support) manual order confirmation - in progress;
+* Migration of rewards to separate server - in progress;
+
+**Blockexplorer**
+
+* Add the function of adding a token to the metamask to Assets - in progress;
+* Updating the list of our official tokens + icons - in progress;
+
+**DEX**
+* Check scroll page Farm (completed)
+* Update the list of our official tokens + icons on DEX (completed)
+
+
+## Ultron foundation updates from 03.07 - 07.07.2023
+
 **NFT Staking HUB**
 
 * Dollar cap check and fix+ checking if there is an issue with the dollar cap in mainnet - completed;
