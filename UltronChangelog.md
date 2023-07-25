@@ -2,6 +2,36 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 17.07 - 21.07.2023
+
+**NFT Staking HUB**
+
+* Extended migration with support for both static and dynamic USD value;
+* Data transferred to a new smart contract in testnet;
+* Data transfer to a new smart contract in mainnet - in progress;
+* Execution of the high level tests for staking v1 and detailed tests for staking v2 - in progress;
+* Celery branch update - in progress.
+
+
+
+**Ultron bridge**
+
+* Deployment of chainbridge in k8 finished;
+* Control of chainbridge services setup - in progress;
+* Team solved the issue of gas underestimation;
+* Team created the system of retries for underpaid transactions;
+* Archiving instances from the bridge to AWS - in progress;
+
+**DEX**
+
+* Subgraph updated and modified;
+* Move Ultronswap zone from AWS to Cloudflare - in progress;
+* Subgraph issues checking and solving - in progress;
+
+
+**Website**
+* DNS switched to the new ultron.foundation;
+
 ## Ultron foundation updates from 03.07 - 07.07.2023
 
 **NFT Staking Hub**
