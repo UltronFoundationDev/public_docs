@@ -2,6 +2,37 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron foundation updates from 24.07 - 28.07.2023
+
+**NFT Staking HUB**
+Data transfer to a new smart contract in mainnet. in progress;
+Fix transaction re-processing - Completed;
+Execution of the high level tests for staking v1 and detailed tests for staking v2 in progress;
+Checking data for all types of NFT gaming packages (regular task) - in progress;
+Updating the сelery branch - in progress;
+
+
+**UltronSwap**
+Ultronswap movement from AWS to Cloudflare - Completed;
+Check all subgraphs and fix logic when lagging behind - Completed;
+vULX (liquid staking) - preparing specs in progress;
+
+
+**UltronBridge**
+Frontend: get data from backend - Сompleted
+Archiving instances from bridge to aws - Completed
+
+
+**Ecosystem**
+Validators update - Completed;
+Balance monitoring dashboard preparation - in progress;
+Vault monitoring preparation - in progress;
+Deployment of Tron API to k8s - in progress;
+Ansible deployment configuration (regular task) in progress;
+Deploy internal mainnet-ultron API - in progress;
+Delete old resources from AWS - Completed;
+SAFE INIT INFRA3 - in progress;
+
 ## Ultron foundation updates from 17.07 - 21.07.2023
 
 **NFT Staking HUB**
