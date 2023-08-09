@@ -9,7 +9,9 @@
 * Conversion of locks - in progress;
 * Data based on the mainnet data corrected. Formula for the second version of staking and for gaming nft adjusted.
 * Changing of the parser for the second version of the staking contract - in progress;
-Bridges
+
+
+**Ultron Bridge**
 * Implementation of a logging system - in progress;
 
 **Blockscout**
