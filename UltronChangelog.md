@@ -11,9 +11,11 @@
 * Changing of the parser for the second version of the staking contract - in progress;
 Bridges
 * Implementation of a logging system - in progress;
-Blockscout
+
+**Blockscout**
 * Ultron team redeployed  node and finished tests . Will be uploaded to the test network;
-UltronScanner:
+
+**UltronScanner**
 * Redesign of ulxscan - estimated, started;
 UltronSwap:
 * The redesign is estimated and UltronSwap website front is preparing for it
