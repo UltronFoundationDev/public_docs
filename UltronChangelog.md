@@ -2,6 +2,23 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 07.08 - 11.08.2023
+
+**NFT Staking HUB**
+* Redistribution of locks issue solving - in progress;
+* Development of a blacklist for nft in v2 staking contract - in progress.
+* Execution of the high level tests for staking v1 and performance of detailed tests for staking v2 - in progress.
+* Deployment of subgraphs to new production nodes - completed.
+
+**Bridges/infrastructure**
+* Transaction cancellation issues fixes completed.
+
+**Blockscout**
+* Deployment of blockscout to testnet and fixing minor issues - finished;
+
+**Ultronswap**
+* Ultronswap redesign - in progress.
+
 ## Ultron Foundation updates from 31.07 - 04.08.2023
 
 **NFT Staking HUB**
