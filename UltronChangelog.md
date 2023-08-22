@@ -2,6 +2,27 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 14.08 - 18.08.2023
+
+**NFT Staking HUB**
+* Ultron team improved logic of NFT transferability;
+* Conversion of locks - in progress;
+* Data transfer to a new smart contract in mainnet - in progress;
+* Blocks working logic improved. Ultron team will switch to listening blockchain events (EVM) to reduce records amount in the database and assure smooth work of network;
+* Spec on NFT transferability prepared;
+* API for claim on the bonus NFT block updated;
+* Ultron team switched to using TRON fullnode API;
+* Block scanner for Ultron network for buy NFT on ultron network (uUSDT) completed. Currently team performs final checking;
+* Interface to run manage commands scripts in k8s for NFT Staking HUB completed.
+* General refactoring of the code for updating the cellery branch completed;
+* Ultron team rechecked the Unlocks and claims logic to be fully prepared for upcoming payouts.
+
+**UltronSwap**
+* Redesign of UltronSwap. Swap pages, ULX wrap, bridges and farm preparation completed for desktop version.
+* Staging Deploy. Team uploaded all updated pages for staging.
+Ultron main website
+* New Whitepaper uploaded.
+
 ## Ultron Foundation updates from 07.08 - 11.08.2023
 
 **NFT Staking HUB**
