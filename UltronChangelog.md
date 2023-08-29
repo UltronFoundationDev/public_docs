@@ -2,6 +2,37 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+
+## Ultron Foundation updates from 21.08-25.08
+
+**NFT Staking HUB**
+
+* Ultron developers continue to work on the logic of transferability, endpoint updates and preparation of API updates;
+
+* Conversion of locks to a new smart contract in the mainnet - in progress;
+
+* Code refactoring update - in progress;
+
+* Optimization of the NFT staking contract V2 - in progress. Developers are working on solving security issues;
+
+* Spec for transferability update - in progress;
+
+* Blockers optimization completed. Ultron team switched to listening to events from the blockchain;
+
+* Tests for the payout functionality for a staking contract added. All changes uploaded to the mainnet and testnet;
+
+**Tokenomic**
+
+* Creation of the script for deploying wallet update in Ultron network and integrating the ledger and testing - in progress;
+
+**Blockscout**
+* Nodes deployment - team is currently working on finding and fixing minor issues;
+
+**UltronSwap**
+* UltronSwap redesign - all pages have been deployed to the stage, and work on the bridge update is in progress;
+
+* Minor front-end issues fixed and improvements implemented;
+
 ## Ultron Foundation updates from 14.08 - 18.08.2023
 
 **NFT Staking HUB**
