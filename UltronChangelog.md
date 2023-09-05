@@ -3,6 +3,30 @@
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
 
+## Ultron Foundation updates from 28.08-01.09
+
+**NFT Staking HUB**
+
+* Update of NFT transferability logic, as well as endpoint updates and openapi preparation - in progress;
+* Implementation of an address manager as a queue to solve the issue with nonce for ability to make multiple workers - in progress;
+* Transfer of locks - in progress;
+* Commission payouts in uUSDT on Ultron network - in progress;
+* Purchase of NFT on Ultron network (uUSDT) functional - in progress;
+* NFT staking v2 optimization - in progress;
+* Bonus NFT claiming functional updates - in progress;
+
+**Ecosystem**
+* The Ultron team is writing a script for deploying chainsafe service to Ultron Network;
+* Script preparation for Safe Wallet deployment on Ultron - in progress;
+
+**Blockscout**
+* Node deployment functionality - issues solving is finished, currently functional is planned to be implemented to the testnet;
+
+**UltronSwap**
+* UltronSwap updated design deployment - in progress;
+* Creation of new CI for UltronSwap - completed;
+* Front-end bugs and improvemts - minor issues fixed, modal resized, minor screen improvements - in progress
+
 ## Ultron Foundation updates from 21.08-25.08
 
 **NFT Staking HUB**
