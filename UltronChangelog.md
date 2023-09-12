@@ -2,6 +2,32 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 04.08-01.09
+
+**NFT Staking HUB**
+
+* NFT transferability logic update - in progress;
+* Ultron team completed the transfer of locks;
+* Commission payouts in uUSDT on ultron network - on tests;
+* Response issue with requests from utronswap-exchange - in progress
+* Exchange rate subgraph update - in progress;
+* Smart - contract update + adding exchange rate to obtain the value of the terminals - in progress;
+* Ultron team updated claim mechanism on the bonus NFT in the api. The changes have been uploaded to the test. 
+
+
+**Address Manager**
+* Conducting performance tests on validator - in progress;
+
+**Ecosystem**
+* Ultron team is in  process of connecting Gnosis Safe contracts to the wallet application + deployment of gnosis services and changes to suit our needs;
+
+**Blockexplorer**
+* Redesign of ulxscan - in progress; 
+
+**UltronSwap**
+* Farming rewards update - updated farming data;
+* Bug Fixes - bugs were fixed (connecting a wallet, removing rewards);
+
 
 ## Ultron Foundation updates from 28.08-01.09
 
