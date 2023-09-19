@@ -2,6 +2,36 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+
+## Ultron Foundation updates from 11.09-15.09
+
+**NFT Staking HUB**
+
+* Subgraph implementation - in progress;
+* Metrics services updating - in progress;
+* Change the parser for the second version of the staking contract in connection with the release of version 2 of staking - in progress;
+* Smart - contracts improvement - completed, on review;
+* Graph update and backend changes - completed, on review;
+* Transfer of locks finished. Ultron team currently monitoring the situation and it’s work;
+* Block the claim on the bonus NFT updated. The changes have been uploaded to the test;
+* Rewards calculation moved to separate server;
+* Performance tests for the current version of Staking contract - completed;
+
+**Tokenomic**
+
+* Developers are working on deploying gnosis services for the chainsafe service spec;
+* Test contract Vesting deployment to the Ultron mainnet - finished;
+
+**Blockexplorer**
+
+* Redesign of ulxscan - assets pages are completed, non-adaptive transactions are ready;
+
+**UltronSwap**
+
+* Staking failed transactions bug - resolving in progress;
+* Support Request issue - resolved;
+* Swap Confirmation Bug - testing;
+
 ## Ultron Foundation updates from 04.08-01.09
 
 **NFT Staking HUB**
