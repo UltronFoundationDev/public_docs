@@ -2,6 +2,35 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 18.09-22.09
+
+**NFT Staking HUB**
+
+* NFT transferability testing - in progress;
+* Business logic tests - the developers team is adding tests for new functionality;
+* Exchange rate subgraph implementation - in progress;
+* API for Block the claim on the bonus NFT updating - in progress;
+
+**Ecosystem**
+* The address manager Upgrade spec preparation - on progress;
+* Performance test on validator - completed;
+* Vesting contract testing - in progress;
+
+**Blockexplorer**
+* Ulxscan redesign layout for desktop - completed;
+* Vue3 migration - completed.
+* Wallet connect upgrade - completed.
+* Gas Tracker initial investigation - completed, implementation starts next sprint.
+
+**Bridges**
+* Certificate issue on BSC side - resolved.
+* Manual transaction review ongoing for stuck transactions.
+
+**Ultron Foundation website**
+* Partnership Form design completed, implementation expected soon;
+
+**L1**
+* Network performance tests - ongoing.
 
 ## Ultron Foundation updates from 11.09-15.09
 
