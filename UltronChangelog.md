@@ -2,6 +2,39 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 25.09-29.09
+
+**NFT Staking HUB**
+* Movement of  NFT transferability to the celery branch - In Progress;
+* Creation of a task diagram based on Revenue share specs; initial version is currently under team review - In Progress;
+* Recover of a lost monitoring address list - Completed;
+* Update of the testnet subgraph - Completed;
+* Export of bonus hub for buyback information - Completed;
+* Team completed business logic tests;
+
+**Infrastructure**
+* Adding workers for AM operations optimization - In Progress;
+* Introducing waiter receipt transaction worker - In Progress;
+* Testing workers and addressing fixes while debugging the address manager - In Progress;
+* Ultron team is updating Vesting contract UI;
+* Ultron team has completed documentation on working with the Vesting contract;
+* Ultron team finished preparation of documentation regarding Vesting smart contract functionality;
+* Conducting performance tests of the network: Environment setup and issue resolutions are In Progress;
+
+**Blockexplorer**
+* Gas Tracker has been implemented on the backend and is now deployed to staging;
+* Redesign of ulxscan: Desktop version has been deployed to staging (validator staking excluded);
+* Validators APR counting is currently In Progress; the team has updated the frontend reward calculation formula;
+
+**Bridges**
+* Address of “502 in RPC logs” - Completed;
+
+**Ultron Swap**
+* “Quota exceeded” issue is In Progress and is scheduled for the beginning of the next sprint;
+
+**Ultron Website**
+* Partnership Form integration - Completed.
+
 ## Ultron Foundation updates from 18.09-22.09
 
 **NFT Staking HUB**
