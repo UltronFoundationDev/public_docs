@@ -2,6 +2,28 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 02.10-06.10
+
+**Staking Hub NFT Report**
+
+* Ultron team commenced the import process and added new functionality to the contract.
+* Ticket Vouchers: Currently, team preparing contracts and tests for ticket vouchers.
+* Start Claim Reward on Testnet: The team is in the process of initiating the rewards claim on the testnet.
+* Auto-refund in optimism network - in progress;
+* Address Manager: Ultron team has been testing and debugging the address manager. Certain identified cases and issues were resolved.
+
+**Blockexplorer**
+* Redesign of ulxscan: Main page adaptivity and main page staging are done. Validators’ page preparation - in progress; 
+* Validators APR count: Completed.
+
+**UltronSwap**
+* TX issue during withdrawal of WETH LP tokens - in progress;
+* Wallet Connect “quota exceeded” issue: In progress.
+* Farming Rewards Update: Completed.
+
+**Ecosystem**
+* Network Performance Tests: In progress. After review, environment setup will be revised (elimination of downtime, renaming adjustments).
+
 ## Ultron Foundation updates from 25.09-29.09
 
 **NFT Staking HUB**
