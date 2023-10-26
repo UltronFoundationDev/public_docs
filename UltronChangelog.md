@@ -2,6 +2,51 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 16.10-20.10
+
+**NFT Staking HUB**
+* Ticket vouchers preparation - completed;
+* Revenue share functionality - in progress.
+* Rates displayment improvements on staking contract (airdrop dollar cap/ claim dollar cap) - completed;
+* Change commission rates - completed;
+* Claims Data Export - completed;
+* Change attribute for claim nft- completed;
+* Start of claim reward on testnet - completed;
+Address Manager
+* Add waiter receipt tx worker - completed;
+* Update of spec and preliminary preparation of specs for Vault - in progress;
+
+**Blockexplorer**
+* Redesign ulxscan - performing tests, fixing issues, getting ready to submit for final testing;
+
+**L1**
+* Performance tests of network - in progress, finished with the infrastructure, launching tests;
+Ultron Foundation
+* Minor SSL issues investigation - in progress; 
+
+## Ultron Foundation updates from 09.10-13.10
+
+ 
+**NFT Staking HUB**
+* Ticket vouchers - completed:
+* Smart contracts and subgraph on deployment and testing;
+* Celery branch update;
+
+**Address Manager**
+* Admin panel preparation - completed; 
+* User model creation - completed; 
+* Sqladmin integration - completed; 
+
+**Blockexplorer**
+* Redesign of ulxscan - all pages + gas tracker have been improved;
+
+**L1**
+* Performance tests of network - in progress, environment reconfiguration completed;
+
+**Ultron Foundation website**
+* Website Indexing - completed.
+
+
 ## Ultron Foundation updates from 02.10-06.10
 
 **Staking Hub NFT Report**
