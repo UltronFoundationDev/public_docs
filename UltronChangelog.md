@@ -2,6 +2,20 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 23.10-27.10
+
+**NFT Staking HUB**
+* Revenue Share contract update preparation - in progress;
+* Unit tests preparation - in progress;
+* Cron transfer claim to Kubernetes - in progress;
+* Spec Updating - completed;
+* Custodial version implementation - completed;
+
+**Ultron Scanner**
+* Ulxscan redesign - in progress;
+* Validator’s delegation extension - completed;
+* Claim exchange rate field in NFT metadata Implementation - completed;
+
 ## Ultron Foundation updates from 16.10-20.10
 
 **NFT Staking HUB**
