@@ -2,6 +2,36 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 06.11-10.11
+
+**NFT Staking Hub**
+* Revenue share - the team is engaged in testing. We have finished developing the graph. Updated the spec.
+* Transfer test server - in progress;
+* Balance monitoring - added addresses to monitoring, then the team will make changes to the dashboard;
+* scanner optimization - in progress;
+* Perform fallback on public (ankr) - completed;
+* Transfer parser - completed;
+
+**Address Manager**
+* Test vault Integration - integration of the updated Vault version into the address manager - in progress;
+* status endpoint adding - completed;
+
+**Ulxscan**
+* Redesign of ulxscan - completed, waiting for release;
+* Scanner and api separation, health-check endpoint - completed;
+* GoRutines stop fix - in progress;
+
+**BlockScout**
+* The deployment version with the new GUI - in progress;
+
+**UltronSwap**
+* Farming Rewards upd - done;
+* Info Page - done, uploaded to prod;
+* New Meta Descriptions - done;
+
+**L1**
+* Performance tests of network - in progress, 3 nodes deployed, submitted a proposal on how to reduce the initial time to log into the network.
+
 ## Ultron Foundation updates from 23.10-27.10
 
 **NFT Staking HUB**
