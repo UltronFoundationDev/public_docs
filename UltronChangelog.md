@@ -2,6 +2,27 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 13.11 - 17.11.2023
+
+
+**NFT Stakint Hub report**
+* Revenue share update - in progress;
+* Gaming contract update - in progress;
+* Update of NFT HUB subgraph - completed
+* Transfer of a test server - completed;
+
+**Address Manager**
+* Integration of AM into Reward service - on test;
+
+**Ultronscan**
+* Pre-production deployment - completed. Deployed on the mainnet to do final tests;
+* Minor issues fixes - in progress. Including return of the gas tracker, nested transactions, and minor UI improvements to the validators page;
+* GoRutines stop fix - in progress;
+
+**Ultronswap**
+* Internal migration of web application to other framework - completed;
+
+
 ## Ultron Foundation updates from 06.11-10.11
 
 **NFT Staking Hub**
