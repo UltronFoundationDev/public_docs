@@ -2,6 +2,23 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 20.11 - 24.11.2023
+
+**NFT Stakint Hub report**
+* Revenue share - tests conduction and brand improvements - in progress;
+* Update of gaming contract - under review for further improvements;
+* Integration gaming nft claim into Staking HUB (Backend) - in progress;
+
+**Address Manager**
+* Integration of AM into Reward service - in progress, uploaded for testing;
+
+**Ulxscan**
+* Fixes for pre-production stage - completed (NFT metadata, nested txs, font refactoring, adoptives minor fixes);
+* GoRutines stop fix - completed;
+* Reddis API issue - in progress;
+* Fixes after regression tests - complrted (adoptive menu, profile fix)
+
+
 ## Ultron Foundation updates from 13.11 - 17.11.2023
 
 
