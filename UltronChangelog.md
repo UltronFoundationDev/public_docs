@@ -2,6 +2,26 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 27.11 - 01.12.2023
+
+**NFT Staking Hub**
+* Revenue share smart contract testing - test preparation in progress.
+* Reward distribution service (Backend) - calculating rewards service preparation in progress.
+* Burned NFT issue fix - fixing small issue, detected during NFT burning process;
+* Revenue share - final preparation check;
+* Update of gaming contract - contract uploading in progress;
+* Models refactoring - completed;
+
+**Address Manager**
+* Adding of queued status and logic completed - added the status “in queue”;
+
+**Blockexplorer**
+* ULXScan regress tests - in progress;
+* Redis API issue - completed;
+
+**UltronSwap**
+* Swap regress tests - in progress;
+
 ## Ultron Foundation updates from 20.11 - 24.11.2023
 
 **NFT Stakint Hub report**
