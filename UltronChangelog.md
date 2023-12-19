@@ -2,6 +2,32 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 11.12 - 15.12.2023
+
+**NFT Staking HUB**
+* Revenue share system development - in progress;
+* Testing of revenue share functionality - in progress;
+* Development of a reward distribution service (Backend) with a test version deployment - in progress;
+* Revenue UI (frontend) testing - in progress;
+* Integration of the revenue share contract into the DAO - in progress;
+* Burned NFT historical data issue solving - in progress;
+* Backend development for importing PaymentNFT - in progress;
+* ITANFT technical specification - in progress;
+* Deployment of revenue UI on the testnet along with CI implementation - completed;
+
+**Bridges**
+* Refactoring of bridge scanning and DB query interactions with the frontend - completed;
+
+**Address Manager**
+* Writing additional tests for address manager - in progress;
+
+**Blockscout**
+* Redesigning and local deployment of Blockscout - in progress.
+
+**Ultron Bridge**
+* Adding alerts for cancelled and expired items - completed;
+* Writing test for deposit and bridge scanning - completed;
+
 ## Ultron Foundation updates from 04.12 - 08.12.2023
 
 **NFT Staking hub**
