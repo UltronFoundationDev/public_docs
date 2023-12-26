@@ -2,6 +2,23 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 18.12 - 22.12
+
+**NFT Staking Hub**
+* Revenue share feature - testing user flow in progress;
+* Revenue share - withdrawal uusdt feature - modification for withdrawing uusdt from custodial wallets in progress;
+* Backend part for uusdt withdrawal - uploaded to the testnet;
+* Subgraph development for getting uUSDT and wUlX balance from custodial wallets - in progress;
+* Historical data issue clarification for burned nft - in progress;
+* Backend import PaymentNFT - backend part completed;
+* Transfer of Processing to new server base - completed;
+
+**UltronSwap**
+* Check wallet connect in DEX services - in progress;
+
+**Bridge**
+* Add events logic for status transactions - completed;
+
 ## Ultron Foundation updates from 11.12 - 15.12.2023
 
 **NFT Staking HUB**
