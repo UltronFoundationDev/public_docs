@@ -2,6 +2,29 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 25.12 - 29.12.2023
+
+**NFT Staking Hub**
+* Deployment of revenue UI - in progress;
+* Burned gaming NFT issue solving - in progress;
+* Deployment of revenue subgraph to mainet - completed;
+* Backend withdrawal uusdt - completed;
+* Reward distribution service (Backend) - completed;
+* Development of an endpoint to balance check from custodial wallets - completed;
+* Add domain to testnet subgraph - completed;
+* Deployment of revshare contract on mainnet - completed;
+
+**Blockscout**
+* Redesign Blockscout - in progress;
+* Local Deploy - in progress;
+
+**ULXscan**
+* StakerInfo issue solving - completed;
+
+**UlXscan**
+* Dynamical adding addresses to workers, optimization of AM work - in progress;
+* Deployment of AM for revshare in production - completed;
+
 ## Ultron Foundation updates from 18.12 - 22.12.2023
 
 **NFT Staking Hub**
