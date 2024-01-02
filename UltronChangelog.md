@@ -20,8 +20,6 @@
 
 **ULXscan**
 * StakerInfo issue solving - completed;
-
-**UlXscan**
 * Dynamical adding addresses to workers, optimization of AM work - in progress;
 * Deployment of AM for revshare in production - completed;
 
