@@ -2,6 +2,23 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 01.01 - 06.01.2024
+
+**NFT Staking HUB**
+
+* Revenue feature - in progress;
+* Revenue uusd withdrawalt feature - in progress;
+* Development of a subgraph for wallets monitoring - in progess;
+
+**Blockscout**
+* Redesign Blockscout + Local Deployment - in progress; 
+
+**Bridge**
+* Farming Rewards update - completed; 
+
+**L1**
+Testnet update - in progress;
+
 ## Ultron Foundation updates from 25.12 - 29.12.2023
 
 **NFT Staking Hub**
