@@ -7,7 +7,7 @@
 **NFT Staking HUB**
 
 * Revenue feature - in progress;
-* Revenue uusd withdrawalt feature - in progress;
+* Revenue uusd withdrawal feature - in progress;
 * Development of a subgraph for wallets monitoring - in progess;
 
 **Blockscout**
