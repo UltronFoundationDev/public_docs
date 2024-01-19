@@ -2,6 +2,27 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 08.01 - 12.01.2024
+
+**NFT Staking HUB**
+* Subgraph development for balance monitoring improvements - in progress;
+* Reward bridging mechanism from BSC to Ultron - in progress, the architecture has been approved;
+* Import PaymentNFT - Updated the graph and contract in the testnet;
+* Processing migration - in progress;
+* Business logic tests -  tests under update for newly added functionality;
+* Deployment of AM for bridge service - completed;
+
+**Blockscout**
+* Blockscout Redesign + Local Deployment - in progress;
+
+**UltronSwap**
+* BUSD delisting - in progress;
+
+**L1**
+* Testnet update - in progress.
+* Validators issue solving - in progress;
+
+
 ## Ultron Foundation updates from 01.01 - 06.01.2024
 
 **NFT Staking HUB**
