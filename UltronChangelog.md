@@ -2,6 +2,22 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 15.01 - 19.01.2024
+
+**NFT Staking HUB**
+
+* Subgraph  development for balance update for custodial wallets - in progress;
+* bsc to ultron bridge update - contracts preparation completed.
+* Migration of processing to k8 - in progress;
+* Business logic tests - test are under update;
+* Refactoring of off-chain orders - in progress; 
+* adding new NFT packages - in progress;
+
+**Ultron Bridge**
+
+* Delisting BUSDT - preparation for delisting - in progress;   ULXScan
+* Deployment new design for ULXScan - completed
+
 ## Ultron Foundation updates from 08.01 - 12.01.2024
 
 **NFT Staking HUB**
