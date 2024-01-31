@@ -2,6 +2,33 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 22.01 - 26.01.2024
+
+**NFT Staking HUB**
+* Subgraph development for balance update for custodial wallets - under review;
+* bridge from bsc to ultron maintenance - testing;
+* Migration of processing to k8 - in progress;
+* Business logic tests - updating tests.
+* Update instance list - the list of processing microservices for k8s was updated;
+* refact off-chain orders - development started;
+* adding new off-chain app on NFT HUB - completed;
+* Revenue share - completed;
+* Nft parser to check correctness of rewards - completed;
+
+**Address Manager**
+* adding mock function in tests - in progress;
+
+**Blockscout**
+Redesign Blockscout + Local Deploy - in progress.
+
+**Bridge**
+* Redis via SENTINEL - completed
+
+**UlxScan**
+* Front moving to the main branch - completed;
+* Adding a fieldto the wallet page - completed;
+* Minor issues fixing - completed;
+
 ## Ultron Foundation updates from 15.01 - 19.01.2024
 
 **NFT Staking HUB**
