@@ -4,6 +4,27 @@
 
 ## Ultron Foundation updates from 29.01 - 02.01.2024
 
+**NFT Staking Hub**
+* Subgraph development for balance update for custodial wallets - under review;
+* automatic reward bridging from bsc to ultron - updating;
+* Migration of processing to k8 - in progress;
+* Business logic tests - updating tests;
+* refact off-chain orders - testing;
+* automatic reward bridging from bsc to ultron contract preparation - completed;
+
+**Address Manager(AM)**
+* fix AM to work with single transactions - minor issue fixed;
+* mock function added in tests;
+
+**Bridge**
+*Bridge Optimization Tests - Completed;
+
+**UlxScan**
+* Issues Fixing - in progress.
+
+
+## Ultron Foundation updates from 29.01 - 02.01.2024
+
 **NFT Staking HUB**
 * Subgraph development for balance update for custodial wallets - minor issues fixed;
 * bridge from bsc to ultron maintenance - testing in progress;
