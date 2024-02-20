@@ -2,7 +2,32 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
-## Ultron Foundation updates from 29.01 - 02.01.2024
+## Ultron Foundation updates from 12.02 - 16.02.2024
+
+
+**NFT Hub**
+
+* automatic bridge reward from bsc to ultron - testing in progress;
+* refact off-chain orders - testing in progress;
+* automatic bridge reward backend preparation - completed;
+
+**Infrastructure**
+* Troubleshoot of the subgraphs deployed in the testnet - completed;
+* Upgrade and deployment of subgrpaphs missed on the mainnet nodes - completed;
+* Remove of unnecessary subgraphs deployed on the old mainnet node - completed;
+
+**UlxScan**
+* MongoDB issue fix - completed
+
+**UltronSwap**
+* Access provision to DEX UI - under review;
+* UlxScan+Dex issues&bug fixing - in progress;
+* Wallet Connection optimization - in progress;
+
+**Blockscout**
+* Redesign - frontend integration with new design - in progress;
+
+## Ultron Foundation updates from 05.02 - 16.02.2024
 
 **NFT Staking Hub**
 * Subgraph development for balance update for custodial wallets - under review;
@@ -23,7 +48,7 @@
 * Issues Fixing - in progress.
 
 
-## Ultron Foundation updates from 29.01 - 02.01.2024
+## Ultron Foundation updates from 29.01 - 02.02.2024
 
 **NFT Staking HUB**
 * Subgraph development for balance update for custodial wallets - minor issues fixed;
