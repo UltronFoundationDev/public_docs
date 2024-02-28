@@ -2,6 +2,27 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 19.02 - 23.02.2024
+
+**NFT Hub**
+* Logging optimization - deploying a service for storing business logs;
+* Gas to scanner calculation issue fix - the team is solving an issue found during calculating gas in tron;
+
+**UlxScan**
+* Unstaking issue fix - completed;
+* Wagmi/viem update - in testing;
+
+**UltronSwap**
+* Wagmi/viem update on dex - implementation of tests;
+* Api tests/backend changes on Bridge - completed;
+
+**Blockscout**
+* Redesign frontend integration - in progress;
+
+**L1**
+* SnapSync issue - on review
+* Run testing buying tickets on Ultron testnet - in progress;
+
 ## Ultron Foundation updates from 12.02 - 16.02.2024
 
 
