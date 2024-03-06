@@ -2,6 +2,32 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 26.02 - 01.03.2024
+
+
+**NFT Hub**
+
+* automatic bridge reward from bsc to ultron - in progress;
+* Logging optimization - in progress;
+* gas to scanner calculation - issue fixing in progress;
+* subgraph development to get uUSDT and wUlX balance from custodial wallets - in progress;
+* addition of proxy to prod balance subgraph - in progress;
+* refactoring off-chain orders - completed;
+* Tests added for withdrawal limits;
+
+**Account Abstraction**
+* restructuring of application architecture - in progress
+* writing tests for ws - in progress;
+
+**UlxScan**
+* Wagmi/viem update - codereview in progress;
+
+**UltronSwap**
+* Internal functionality improvement - in progress;
+
+**Blockscout**
+* Redesign - in progress;
+
 ## Ultron Foundation updates from 19.02 - 23.02.2024
 
 **NFT Hub**
