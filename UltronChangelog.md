@@ -2,6 +2,25 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+**NFT Hub**
+* automatic bridge of rewards from bsc to ultron - in progress;
+* Migration of processing to k8 - in progress;
+* Logging optimization - in progress;
+* scanner gas calculation - in progress;
+* subgraph development for custodial wallets balance update - completed;
+* refact off-chain orders - data migration - completed;
+
+**UlxScan**
+* Cache issue fix on ulxscan - completed;
+* Unstaking issue fix - in progress;
+
+**UltronSwap**
+* Bridge contracts updating - in progress;
+* Token bridge system improvement - in progress;
+
+**Blockscout**
+* Redesign - in progress;
+
 ## Ultron Foundation updates from 26.02 - 01.03.2024
 
 
