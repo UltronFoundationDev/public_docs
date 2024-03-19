@@ -2,6 +2,27 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 11.03 - 15.03.2024
+
+**NFT Hub**
+* automatic bridge reward from bsc to ultron - in progress;
+* Migration of processing to k8 - in progress;
+* Logging optimization - in progress;
+* integrate sentinel redis - optimization of redis operation in cube is in progress;
+* Addition of burnonly contract - the team developed the contract and test and uploaded it to testnet;
+* autostake issue fix - completed;
+* automatic bridge reward deployment - completed;
+* automatic bridge reward - contracts were uploaded to the mainnet;
+
+**UltronSwap**
+* Bridge contracts deployment - in progress;
+* Preparation of parser for tokens bridge - in progress;
+
+**L1**
+* Check of the LLR and London upgrade for snap sync - in review;
+
+## Ultron Foundation updates from 04.03 - 08.03.2024
+
 **NFT Hub**
 * automatic bridge of rewards from bsc to ultron - in progress;
 * Migration of processing to k8 - in progress;
