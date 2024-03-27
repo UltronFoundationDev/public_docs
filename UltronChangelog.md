@@ -2,6 +2,20 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 18.03- 22.03
+
+**NFT Hub**
+* Logging optimization - in progress;
+* auto-return for off-chain orders development - Ultron team is making improvements to off-chain orders, work in progress;
+* NFT transferability - in progress;
+* automatic bridge of reward from bsc to ultron - completed, ready for release.
+* sentinel redis integration - completed;
+* refact of off-chain orders - completed;
+* gas to scanner calculation - completed;
+
+**UltronSwap**
+* Bridge contracts improvement - in progress. Contracts deployed, currently working on the backend;
+
 ## Ultron Foundation updates from 11.03 - 15.03.2024
 
 **NFT Hub**
