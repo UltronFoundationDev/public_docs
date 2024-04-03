@@ -2,7 +2,24 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
-## Ultron Foundation updates from 18.03- 22.03
+## Ultron Foundation updates from 25.03 - 29.03
+
+**NFT Hub**
+
+* Migration of processing to k8 - in progress;
+* Logging optimization - in progress;
+* analogue of the blocker service implementation - in progress;
+* NFT transferability - in progress;
+* development auto-return for off-chain orders - completed;
+* automatic bridge reward from bsc to ultron - completed;
+
+**UlxScan**
+* Add Alerts on Scan - in progress;
+
+**UltronSwap**
+* Bridge contracts improvement - in progress;
+
+## Ultron Foundation updates from 18.03 - 22.03
 
 **NFT Hub**
 * Logging optimization - in progress;
