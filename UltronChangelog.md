@@ -2,6 +2,27 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 01.06 - 05.06
+
+**Nft Hub**
+* Migration of processing to k8 - in progress;
+* Logging optimization - in progress;
+* Last block cache - in progress;
+* Adding burnonly contract - testing;
+* adding summary nft in admin panel - completed;
+* UPDATE the conditions for the K coefficient - completed;
+
+**UlxScan**
+* Add Alerts on Scan - in progress (next sprint)
+Blocscout
+*Testing contract verification service
+UltronSwap
+* Transac integration - in progress;
+* Bridge contracts - in progress;
+
+**L1**
+* London upgade testing. Preparing for deployment
+
 ## Ultron Foundation updates from 25.03 - 29.03
 
 **NFT Hub**
