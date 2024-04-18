@@ -2,7 +2,34 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
-## Ultron Foundation updates from 01.06 - 05.06
+## Ultron Foundation updates from 08.04 - 12.04
+
+**NFT Hub**
+* Migration of processing to k8 - in progress;
+* Logging optimization - in progress;
+* NFT transferability - tests under preparation;
+* Issue fix in gaming nft import - completed;
+* Fixing ulx price getter to blockscout - completed;
+* Last block cache - completed;
+* Adding burnonly contract - completed;
+
+**UlxScan**
+* Add Alerts on Scan - in progress;
+* Wallet connect on Undelegation issue fixing - in progress;
+
+**Blocscout**
+* Getting of the pricefeeds, core components abi Sunc- completed;
+* Contract Verification module - in progress;
+* Frontend Adjustments to the new ABI update - in progress;
+
+**UltronSwap**
+* Transac integration - in progress. Ultron implementation: contract deployment on BSC test - completed;
+* Bridge contracts - in review
+
+**L1**
+* London upgrade - in review; 
+
+## Ultron Foundation updates from 01.04 - 05.04
 
 **Nft Hub**
 * Migration of processing to k8 - in progress;
