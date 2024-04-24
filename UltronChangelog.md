@@ -2,6 +2,32 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 15.04-19.04
+
+**NFT Hub**
+* Migration of processing to k8 - in progress
+* Logging optimization - in progress;
+* webhook. user balance rounding - in progress;
+* rewrite stacking v2 to subsquid - in progress;
+* revenue share issue fix - completed;
+* Last block cache - completed;
+* adding of tests - completed;
+* fixing revshare notifications - completed;
+* Last block cache - k8s - completed;
+* fixing ulx price getter to blockscout - completed;
+
+**UlxScan**
+* Wallet connect undelegation issue - fixed (under review);
+
+**Blockscout**
+* Deployment of new ABI, front-end adjustments - in progress;
+
+**UltronSwap**
+* Transac integration - in progress. Ultron implementation: contract deployment on BSC test - completed;
+
+**L1**
+* London upgrade: in review + Berlin update - in progress;
+
 ## Ultron Foundation updates from 08.04 - 12.04
 
 **NFT Hub**
