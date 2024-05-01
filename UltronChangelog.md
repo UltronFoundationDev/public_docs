@@ -2,6 +2,28 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 22.04-26.04.2024
+
+**NFT Hub**
+* Migration of processing to k8 - in progress;
+* Logging optimization - in progress;
+* Business logic tests - tests are updating on on-chain orders;
+* revshare bug. double request to ultron bridge - completed;
+* fixing revenue share. bug with graphql requests - completed;
+* webhook. user balance rounding - completed;
+
+**Infrastructure**
+* Subsquid - team started rewriting subgraphs into subsquid.
+
+**Blocscout**
+* Deployment of new ABI, front-end adjustments - in progress;
+
+**UltronSwap**
+* Transac integration - testing the environment;
+
+**L1**
+* Setup the mainnet clone for future update - in progress
+
 ## Ultron Foundation updates from 15.04-19.04
 
 **NFT Hub**
@@ -28,7 +50,7 @@
 **L1**
 * London upgrade: in review + Berlin update - in progress;
 
-## Ultron Foundation updates from 08.04 - 12.04
+## Ultron Foundation updates from 08.04 - 12.04.2024
 
 **NFT Hub**
 * Migration of processing to k8 - in progress;
@@ -55,7 +77,7 @@
 **L1**
 * London upgrade - in review; 
 
-## Ultron Foundation updates from 01.04 - 05.04
+## Ultron Foundation updates from 01.04 - 05.04.2024
 
 **Nft Hub**
 * Migration of processing to k8 - in progress;
@@ -76,7 +98,7 @@ UltronSwap
 **L1**
 * London upgade testing. Preparing for deployment
 
-## Ultron Foundation updates from 25.03 - 29.03
+## Ultron Foundation updates from 25.03 - 29.03.2024
 
 **NFT Hub**
 
@@ -93,7 +115,7 @@ UltronSwap
 **UltronSwap**
 * Bridge contracts improvement - in progress;
 
-## Ultron Foundation updates from 18.03 - 22.03
+## Ultron Foundation updates from 18.03 - 22.03.2024
 
 **NFT Hub**
 * Logging optimization - in progress;
