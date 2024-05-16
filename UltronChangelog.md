@@ -2,6 +2,22 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 06.05-10.05.2024
+
+**NFT Hub**
+* Migration of processing to k8 - in progress;
+* Logging optimization - in progress;
+* Business logic tests - in progress;
+* upgrade ща ci template - in progress;
+* integration of new ci template into HUB - in progress;
+
+**UltronSwap**
+* Transac integration - integration issue fixed;
+* Deployment of bridge new version  - in progress;
+
+**Blocscout**
+* New ABI deployed, front-end adjustments - completed
+
 ## Ultron Foundation updates from 29.04-03.05.2024
 
 **NFT Hub**
