@@ -2,6 +2,29 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 13.05-17.05.2024
+
+**UltronSwap**
+* Transac integration - fixed the integration issue, preparing to deploy on mainnet;
+* Bridge new version deploy - in progress (est. Monday);
+
+**Blocscout**
+* Test new ABI - in progress
+
+**L1**
+* HA Proxy Module testing - in review
+
+**Subsquid**
+* rewrite staking v2 to subsquid - in progress
+* ultron swap exchange subsquid review - completed
+
+**NFT HUB**
+* Migration of processing to k8 - in progress;
+* Logging optimization - in progress;
+* Business logic tests - in progress;
+* upgrade ci template - completed;
+* integrate new ci template - completed;
+
 ## Ultron Foundation updates from 06.05-10.05.2024
 
 **NFT Hub**
