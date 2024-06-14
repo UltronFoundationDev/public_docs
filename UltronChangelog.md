@@ -2,6 +2,25 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 10.06-14.06.2024
+
+**NFT Hub**
+* fixing payment order - in progress; 
+* Logging optimization - in progress; 
+* init tasks from admin panel - completed;
+* update autorefund queue - completed;
+
+**Blockscout**
+* Redesign Blockscout - in review;
+* Update compilers for contract verification - in progress;
+
+**UltronSwap**
+* Transac integration - in review;
+* testing on testnet - in review;
+* Bridge new version - in progress;
+
+
+
 ## Ultron Foundation updates from 03.06-07.06.2024
 
 **Blockscout**
