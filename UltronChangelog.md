@@ -18,9 +18,8 @@
 
 
 **UltronSwap** 
-* Transac integration - waiting the contract verification (filled the forms ) - in progress;
-* testing on testnet - done;
-* SourceHAt audit - done;
+* Transac integration - in progress;
+* testing on testnet - completed;
 * Bridge new version - in progress (deploy on mainnet );
 
 **L1** 
