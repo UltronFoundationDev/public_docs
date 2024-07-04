@@ -2,6 +2,59 @@
 
 **In this file Ultron team lists rollout and development updates for each week for all Ultron Foundation main products.** 
 
+## Ultron Foundation updates from 24.06-28.06.2024
+
+**NFT Hub** 
+* change USDT to USDC- in progress; 
+* Logging optimization- in progress; 
+* NFT transferability- in progress; 
+* Parsing revenue share data - completed; 
+
+
+**Blockscout** 
+* Redesign Blockscout - Done with V1. Polyshing frontend - in progress
+* V2 Estimation  - in progress
+* Update compilers for contract verivication - done
+
+
+**UltronSwap** 
+* Transac integration - waiting the contract verification (filled the forms ) - in progress;
+* testing on testnet - done;
+* SourceHAt audit - done;
+* Bridge new version - in progress (deploy on mainnet );
+
+**L1** 
+* HA proxy connection pull - completed;
+
+## Ultron Foundation updates from 17.06-21.06.2024
+
+**Blockscout**
+* Redesign Blockscout - Completed
+* Update Compilers for Contract Verification - testing; 
+
+
+**UltronSwap**
+
+* Transac Integration - In Progress
+* Testing on Testnet - In Review
+* Bridge New Version - In Progress (In Deploy)
+
+
+**L1**
+* Multisig and HAProxy Module - In Progress
+
+
+**Subsquid**
+
+* Hold: Rewrite Staking v2 to Subsquid
+* Done: Ultron Swap Exchange
+
+
+**NFT Hub** 
+* In Progress: NFT Transferability, Change the Request Signing Method
+* Hold: Migration of Processing to k8, Deploy to Test Server
+* Logging Optimization - In Progress
+
 ## Ultron Foundation updates from 10.06-14.06.2024
 
 **NFT Hub**
